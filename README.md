@@ -1,5 +1,6 @@
 # GotIt
-⚡"GotIt" é um jogo de descoberta de palavras inspirado no wordlegame.
+
+⚡"GotIt" is a word discovery game inspired by Wordle Game. It was developed during the Software Testing course with the intention of creating test cases and conducting black-box testing on a project developed by a classmate.
 
 # Acquired skills
 
